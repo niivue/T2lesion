@@ -5,7 +5,7 @@ import MyWorker from "./brainchop-webworker.js?worker"
 
 async function main() {
   aboutBtn.onclick = function () {
-    const url = "https://github.com/neurolabusc/T2lesion";
+    const url = "https://github.com/niivue/T2lesion";
     window.open(url, '_blank');
   }
   opacitySlider0.oninput = function () {
