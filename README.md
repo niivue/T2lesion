@@ -15,7 +15,7 @@ T2lesion is a web page that uses AI to identify chronic stroke lesions observed 
 
 ### Developers - Running a Local Live Demo
 
-This hot-reloadable live demo will refresh the web page each time you modify the code.
+This hot-reloadable live demo will refresh the web page each time you modify the code. 
 
 ```bash
 git clone git@github.com:niivue/T2lesion.git
